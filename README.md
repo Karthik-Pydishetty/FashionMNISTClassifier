@@ -1,1 +1,2 @@
 # FashionMNISTClassifier
+This repository contains a Convolutional Neural Network (CNN) based image classifier designed to recognize various types of clothing. The project utilizes the Fashion MNIST dataset, which includes images of 10 different clothing categories such as T-shirts, trousers, and sneakers. The model is implemented using PyTorch and demonstrates key concepts in deep learning, including data preprocessing, model building, training, evaluation, and visualization.
